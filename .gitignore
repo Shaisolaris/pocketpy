@@ -1,5 +1,4 @@
 __pycache__/
-.vscode
 .ipynb_checkpoints
 .DS_Store
 .coverage
@@ -44,3 +43,5 @@ tmp/
 profiler_report.json
 
 tmp/
+config.bat
+node_modules
